@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hello there, I'm Max (Xardax88) 🖥️
+
+## About me
+
+- Graduate of UTN-FRA Argentina
+- Back-end and Software developer
+- Currently learning Web Development and Front-end by Self
+- I am currently working on PLC programming
+
+## Skills
+
+- Languages:
+  - C
+  - C++
+  - C#
+  - PHP
+  - TypeScript
 
 <!--
 **Neodoomed/Neodoomed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
